@@ -1,5 +1,4 @@
 # Blackjack
-
 ~~~Rules~~~
 
 Pack: Regular 52 card deck.
@@ -46,7 +45,3 @@ play, and a winner is decided, ending the round.  The game then asks if you woul
 ~~~Classes~~~
 
 Blackjack (main), Deck, Card, Hand, Person, Dealer, Player
-
-
-
-
