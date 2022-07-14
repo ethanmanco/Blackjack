@@ -1,7 +1,6 @@
 # Blackjack
 
-
-~~~Rules~~~
+## ~~~Rules~~~
 
 Pack: Regular 52 card deck.
 
@@ -31,12 +30,12 @@ equals 17 or more (with the ace being 11), the dealer must count the ace as 11 a
 actions are automatic on all plays.
 
 
-~~~Additional Features~~~
+### ~~~Additional Features~~~
 
 Multiplayer (up to seven players).
 
 
-~~~Sequence~~~
+### ~~~Sequence~~~
 
 Blackjack Program: Create a deck and then shuffle it.  The deal begins and each player gets two cards 
 (the dealers being face down).  Check for naturals.  The play starts and the first player decides how many 
@@ -44,6 +43,6 @@ times they want to hit or stand in place.  After each player takes theirturn, th
 play, and a winner is decided, ending the round.  The game then asks if you would like to play another round.
 
 
-~~~Classes~~~
+### ~~~Classes~~~
 
 Blackjack (main), Deck, Card, Hand, Person, Dealer, Player
